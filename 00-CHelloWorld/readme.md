@@ -5,6 +5,10 @@
 * Axel Junior
 #
 # TP0 "Hello, World!" en C
+#
+# Version C y Compilador instalada:
+* Version compilador: MinGW 6.3.0
+* Version C: C11
 
 ## 3.1. Objetivos
 * Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo de un programa simple.
